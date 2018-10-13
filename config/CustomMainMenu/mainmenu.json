@@ -139,15 +139,6 @@
             "alignment" : "bottom_left"
         }
 		
-		/*
-        "example":{  
-            "text":"eS Vanilla Deluxe 1.0.2",
-            "posX":0,
-            "posY":0,
-            "color":13938487,
-            "alignment":"bottom_left"
-        }
-        */		
     },
     "other":
     {
