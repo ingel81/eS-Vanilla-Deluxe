@@ -134,7 +134,7 @@
         {
             "text" : "",
             "posX" : 2,
-            "posY" : -40,
+            "posY" : -35,
             "color" : -1,
             "alignment" : "bottom_left"
         }
@@ -149,7 +149,7 @@
             "posY" : 70,
             "color" : -256,
             "alignment" : "top_center",
-            "texts" : "1.0.3"			
+            "texts" : "1.0.4"			
         },
     
         "panorama":
